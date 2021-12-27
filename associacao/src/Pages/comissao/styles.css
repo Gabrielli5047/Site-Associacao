@@ -1,0 +1,38 @@
+.comissao{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.comissao nav img{
+    width: 190px;
+    height: 230px;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 5px rgb(78, 77, 77);
+}
+
+.nav{
+    width: 180px;
+    height: 230px;
+}
+
+.comissao h3{
+    color: black;
+    margin-top: 5px;
+    font-size: 1.0rem;
+    text-align: center;
+}
+
+.grupo1{
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+}
+.grupo2{
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+}
